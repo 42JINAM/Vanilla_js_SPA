@@ -358,11 +358,24 @@ export class RequestError extends Error {
 ```
 
 ## Example : FT_transendence
+
+
+![ScreenRecording2024-03-05at6 41 23PM-ezgif com-video-to-gif-converter](https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/774347de-1af0-405c-9a30-3ebe1d335444)
+
+
+
 ###  User page
-
-
+<img width="2545" alt="Screen Shot 2024-03-05 at 7 15 39 PM" src="https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/d2f2fc2f-d47d-41ae-bde7-16719e670a1f">
 
 #### Profile
 #### My Profile
+
+https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/2da2c6e8-0e48-4040-95cc-06c0f6f23788
+
 #### History
+<img width="1545" alt="Screen Shot 2024-03-05 at 7 56 19 PM" src="https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/69eb67b7-c05d-4315-8665-9e76581826d5">
+
+
+
+
 ### Game page
