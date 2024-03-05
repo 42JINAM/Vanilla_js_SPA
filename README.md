@@ -360,7 +360,7 @@ export class RequestError extends Error {
 ## Example : FT_transendence
 
 
-![ScreenRecording2024-03-05at6 41 23PM-ezgif com-video-to-gif-converter](https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/774347de-1af0-405c-9a30-3ebe1d335444)
+<img width="2560" src="https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/774347de-1af0-405c-9a30-3ebe1d335444"/>
 
 
 
@@ -373,9 +373,16 @@ export class RequestError extends Error {
 https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/2da2c6e8-0e48-4040-95cc-06c0f6f23788
 
 #### History
-<img width="1545" alt="Screen Shot 2024-03-05 at 7 56 19 PM" src="https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/69eb67b7-c05d-4315-8665-9e76581826d5">
 
-
+<img width="2560" alt="Screen Shot 2024-03-05 at 8 00 56 PM" src="https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/83b618ba-de10-4f47-bb96-3a4f29795888">
 
 
 ### Game page
+
+<img width="2560" src="https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/45bd3c7e-756e-432e-9c17-2f671f8f9d99"/>
+
+
+<img width="2560" src= "https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/2f141266-bfca-4e0c-8833-38e6000a0261"/>
+<img width="2560" src= "https://github.com/42JINAM/Vanilla_js_SPA/assets/158562186/cb657615-45d3-4c05-9873-0db95f097437"/>
+
+
